@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40c4793042ff2b6817a961e391f08856",
+    "revision": "79958d36cd179942b3852b9ee466e7a6",
     "url": "/masjiddashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masjiddashboard/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "0d0abe178350d250d13f",
+    "revision": "2899423a14422d542a06",
     "url": "/masjiddashboard/static/css/main.b2e11e2a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masjiddashboard/static/js/2.4c2021fd.chunk.js"
   },
   {
-    "revision": "0d0abe178350d250d13f",
-    "url": "/masjiddashboard/static/js/main.4b938aad.chunk.js"
+    "revision": "2899423a14422d542a06",
+    "url": "/masjiddashboard/static/js/main.d0609039.chunk.js"
   },
   {
     "revision": "c13f50c0dd5b8db3c83b",
